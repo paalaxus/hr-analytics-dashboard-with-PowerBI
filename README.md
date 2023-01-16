@@ -13,7 +13,7 @@ Buttons were included to navigate between pages.
 
 ## Dashboard Visualization
 
-![2023-01-16 08_10_49-Hr_Dashboard - Power BI](https://user-images.githubusercontent.com/58373408/212698609-87ed525b-015d-4866-9591-9e2e8761cb22.png)
+![2023-01-16 08_18_29-hr report - Power BI](https://user-images.githubusercontent.com/58373408/212699489-5ddb1ddd-f272-4d38-be23-db1835ee0936.png)
 
 
-![2023-01-16 08_11_05-Hr_Dashboard - Power BI](https://user-images.githubusercontent.com/58373408/212698610-ecdeb440-903f-420b-be84-9017c9576dd7.png)
+![2023-01-16 08_18_46-hr report - Power BI](https://user-images.githubusercontent.com/58373408/212699493-38a1190b-6f5c-4704-a255-2e04281aa9b7.png)
